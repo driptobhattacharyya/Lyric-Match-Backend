@@ -1,0 +1,5 @@
+.env
+.idx
+.vscode
+.venv
+__pycache__
